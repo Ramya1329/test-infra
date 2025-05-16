@@ -5,6 +5,5 @@
 .terraform.lock.hcl
  tfplan
  crash.log
- clean-test-infra/
  terraform-infra/
-
+ clean-test-infra/
